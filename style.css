@@ -1,0 +1,93 @@
+.name {
+    height:7vh;
+    width:45vw;
+    text-align:center;
+    color:royalblue;
+    margin-right:40vw;
+    margin-top:2vh;
+    margin-bottom:3vh;
+    margin-left:2vw;
+}
+
+.image {
+    height:7vh;
+    width:45vw;
+    text-align:center;
+    color:royalblue;
+    margin-left:2vw;
+}
+
+.movie {
+    height:7vh;
+    width:45vw;
+    text-align:center;
+    color:royalblue;
+    margin-left:3vw;
+}
+
+.comment {
+    height:7vh;
+    width:94vw;
+    text-align:center;
+    color:royalblue;
+    margin-top:3vh;
+    margin-left:2vw;
+}
+
+#submit {
+    position:relative;
+    height:10vh;
+    width:15vw;
+    background-color:orange;
+    margin-top:2vh;
+    margin-bottom:7vh;
+    margin-left:2vw;
+}
+
+#newBox {
+    width:92vw;
+    height:25vh;
+    background-color:blue;
+    margin-bottom:7vh;
+    margin-left:3vw;
+}
+
+#newImage {
+    position:absolute;
+    top:50%;
+    left:1%;
+    width:100px;
+    height:100px;
+    background-color:yellow;
+}
+
+#newMovie {
+    position:absolute;
+    top:42%;
+    left:89%;
+    width:100px;
+    height:100px;
+    background-color:saddlebrown;
+}
+
+#newUsername {
+    position:absolute;
+    text-align:center;
+    top:75%;
+    left:86%;
+    width:10vw;
+    height:12vh;
+    background-color:rosybrown;
+    font-size:115%;
+}
+
+#newComment {
+    position:relative;
+    padding:6vw;
+    font-size:200%;
+}
+
+#error_msg {
+    margin-top:1vh;
+    float:right;
+}
