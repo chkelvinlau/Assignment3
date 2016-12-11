@@ -5,7 +5,7 @@ $(document).ready(function(){
     
     var newPost = document.getElementById("post");
     
-    var OMDB = "http://www.omdbapi.com/?t="
+    var OMDB = "https://www.omdbapi.com/?t="
     
     var nameInput  = document.getElementById("name_input");
     var imageInput = document.getElementById("image_input");
